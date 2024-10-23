@@ -3,6 +3,16 @@ entries:
   myapi:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-10-23T06:53:30.129713923Z"
+    description: A Helm chart for Kubernetes
+    digest: 0fc90eeece391088afeea9558a91e0a8d650abddfe01ae3dd2bb222e444e1475
+    name: myapi
+    type: application
+    urls:
+    - https://github.com/CharlesSin/k8s-summit-2024/releases/download/myapi-0.1.1/myapi-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-10-23T06:44:45.708235727Z"
     description: A Helm chart for Kubernetes
     digest: 6fe70cd21c51e8d9150154bccc62713865a14266c71dd964de544ef8d81b54a2
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/CharlesSin/k8s-summit-2024/releases/download/myapi-0.1.0/myapi-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-23T06:44:45.7083222Z"
+generated: "2024-10-23T06:53:30.129725565Z"
